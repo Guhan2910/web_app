@@ -1,0 +1,218 @@
+{
+  "EmpData": [
+    {
+      "id": 4,
+      "name": "balaji",
+      "age": "21",
+      "email": "balaji2@gmail.com",
+      "mobile": 98765432
+    },
+    {
+      "id": 5,
+      "name": "naveen",
+      "age": "21",
+      "email": "naveen20@gmail.com",
+      "mobile": 98765432
+    },
+    {
+      "id": 6,
+      "name": "setharaman",
+      "age": "22",
+      "email": "seeths2@gmail.com",
+      "mobile": 98765432
+    },
+    {
+      "id": 7,
+      "name": "guhanSuwathi",
+      "age": "22",
+      "email": "gs@gmail.com",
+      "mobile": 98765432
+    },
+    {
+      "id": 8,
+      "name": "guhan c",
+      "age": "cguhan86@gmail.com",
+      "email": "cguhan86@gmail.com",
+      "mobile": "1234567890"
+    },
+    {
+      "id": 9,
+      "name": "guhan c",
+      "age": "cguhan86@gmail.com",
+      "email": "cguhan86@gmail.com",
+      "mobile": "1234567890"
+    },
+    {
+      "id": 10,
+      "name": "guhan c",
+      "age": "cguhan86@gmail.com",
+      "email": "cguhan86@gmail.com",
+      "mobile": "1234567890"
+    },
+    {
+      "id": 11,
+      "name": "guhan c",
+      "age": "cguhan86@gmail.com",
+      "email": "cguhan86@gmail.com",
+      "mobile": "1234567890"
+    },
+    {
+      "id": 12,
+      "name": "suwathi",
+      "age": "cguhan86@gmail.com",
+      "email": "cguhan86@gmail.com",
+      "mobile": "987654321"
+    },
+    {
+      "id": 13,
+      "name": "suwa",
+      "age": "cguhan86@gmail.com",
+      "email": "cguhan86@gmail.com",
+      "mobile": "345678765432"
+    }
+  ],
+  "E-commerce": [
+    {
+      "id": 1,
+      "img": "https://img.freepik.com/premium-photo/vintage-motorcycle-design-with-mountain-background_1029907-218.jpg?w=740",
+      "name": "Royal Enfield",
+      "model": "jawa",
+      "price": "2.09 lack"
+    },
+    {
+      "id": 2,
+      "img": "https://img.freepik.com/premium-photo/vintage-motorcycle-parked-street-old-town-autumn-season_900706-24331.jpg?w=360",
+      "name": "Royal Enfield",
+      "model": "Classic-350",
+      "price": "2.25 lack"
+    },
+    {
+      "id": 3,
+      "img": "https://mcn-images.bauersecure.com/wp-images/188998/615x405/royal-enfield-hunter-350-01.jpg",
+      "name": "Royal Enfield",
+      "model": "Hunter",
+      "price": "1.98 lack"
+    },
+    {
+      "id": 4,
+      "img": "https://images.pexels.com/photos/17266142/pexels-photo-17266142/free-photo-of-royal-enfield-himalayan-motorbike.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Royal Enfield",
+      "model": "Himalayan",
+      "price": "2.16 lack"
+    },
+    {
+      "id": 5,
+      "img": "https://motobike.in/wp-content/uploads/2020/09/Royal-Enfield-Classic-350-Stormrider-Sand.jpg",
+      "name": "Royal Enfield",
+      "model": "Classic-350 bs6",
+      "price": "2.20 lack"
+    },
+    {
+      "id": 6,
+      "img": "https://beep-prodbucket.s3.ap-south-1.amazonaws.com/user/3470_2022-ROYAL-ENFIELD-HIMALAYAN_MIRAGE-SILVER_001.JPG__02022023_102419_.JPG",
+      "name": "Royal Enfield",
+      "model": "Himalayan -450",
+      "price": "2.30 lack"
+    },
+    {
+      "id": 7,
+      "img": "https://gaadiwaadi.com/wp-content/uploads/2022/01/Royal-Enfield-Interceptor-650-custom-Neev-Motorcycles-img1-1068x666.jpg",
+      "name": "Royal Enfield",
+      "model": "Neo retro",
+      "price": "1.20 lack"
+    },
+    {
+      "id": 8,
+      "img": "https://bd.gaadicdn.com/processedimages/royal-enfield/2021-bullet-350/494X300/2021-bullet-35064f1c87d2bb55.jpg?imwidth=412&impolicy=resize",
+      "name": "Royal Enfield",
+      "model": "Bullet -350 ",
+      "price": "1.83 lack"
+    },
+    {
+      "id": 9,
+      "img": "https://cdn.motor1.com/images/mgl/zW6KW/s3/2021-royal-enfield-himalayan.jpg",
+      "name": "Royal Enfield",
+      "model": "Himalayan -650",
+      "price": "2.50 lack"
+    },
+    {
+      "id": 10,
+      "img": "https://english.cdn.zeenews.com/sites/default/files/2022/03/15/1023006-royal-enfield-scram-411.jpg",
+      "name": "Royal Enfield",
+      "model": "Scram -411",
+      "price": "2.30 lack"
+    },
+    {
+      "id": 11,
+      "img": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/49657/interceptor-right-side-view-8.jpeg?isig=0",
+      "name": "Royal Enfield",
+      "model": "Interceptor-650",
+      "price": "2.10 lack"
+    },
+    {
+      "id": 12,
+      "img": "https://gaadiwaadi.com/wp-content/uploads/2022/03/RE-Bullet-500-custom-cruiser-Neev-Motorcycles-img1-2-740x493.jpg",
+      "name": "Royal Enfield",
+      "model": "Bullet -500",
+      "price": "2.20 lack"
+    },
+    {
+      "id": 13,
+      "img": "https://beep-prodbucket.s3.ap-south-1.amazonaws.com/user/3470_2022-ROYAL-ENFIELD-HIMALAYAN_MIRAGE-SILVER_001.JPG__02022023_102419_.JPG",
+      "name": "Royal Enfield",
+      "model": "Himalayan -450",
+      "price": "2.30 lack"
+    },
+    {
+      "id": 14,
+      "img": "https://gaadiwaadi.com/wp-content/uploads/2022/01/Royal-Enfield-Interceptor-650-custom-Neev-Motorcycles-img1-1068x666.jpg",
+      "name": "Royal Enfield",
+      "model": "Neo retro",
+      "price": "1.20 lack"
+    },
+    {
+      "id": 15,
+      "img": "https://bd.gaadicdn.com/processedimages/royal-enfield/2021-bullet-350/494X300/2021-bullet-35064f1c87d2bb55.jpg?imwidth=412&impolicy=resize",
+      "name": "Royal Enfield",
+      "model": "Bullet -350 ",
+      "price": "1.83 lack"
+    },
+    {
+      "id": 16,
+      "img": "https://cdn.motor1.com/images/mgl/zW6KW/s3/2021-royal-enfield-himalayan.jpg",
+      "name": "Royal Enfield",
+      "model": "Himalayan -650",
+      "price": "2.50 lack"
+    },
+    {
+      "id": 17,
+      "img": "https://english.cdn.zeenews.com/sites/default/files/2022/03/15/1023006-royal-enfield-scram-411.jpg",
+      "name": "Royal Enfield",
+      "model": "Scram -411",
+      "price": "2.30 lack"
+    },
+    {
+      "id": 18,
+      "img": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/49657/interceptor-right-side-view-8.jpeg?isig=0",
+      "name": "Royal Enfield",
+      "model": "Interceptor-650",
+      "price": "2.10 lack"
+    }
+  ],
+  "Addcart": [
+    {
+      "id": 6,
+      "img": "https://beep-prodbucket.s3.ap-south-1.amazonaws.com/user/3470_2022-ROYAL-ENFIELD-HIMALAYAN_MIRAGE-SILVER_001.JPG__02022023_102419_.JPG",
+      "name": "Royal Enfield",
+      "model": "Himalayan -450",
+      "price": "2.30 lack"
+    },
+    {
+      "id": 12,
+      "img": "https://gaadiwaadi.com/wp-content/uploads/2022/03/RE-Bullet-500-custom-cruiser-Neev-Motorcycles-img1-2-740x493.jpg",
+      "name": "Royal Enfield",
+      "model": "Bullet -500",
+      "price": "2.20 lack"
+    }
+  ]
+}
